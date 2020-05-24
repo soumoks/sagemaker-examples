@@ -9,3 +9,6 @@ def lambda_handler(event,context):
 	"""
     print("Body content: ")
     print(event)
+    """
+    trigger another webhook
+    """
